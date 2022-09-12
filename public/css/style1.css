@@ -1,0 +1,22 @@
+.login{
+
+        width: 300px;
+        border: 15px solid rgb(51, 135, 145);
+        padding: 49px;
+        margin: 255px;
+        margin-left: 504px;
+}
+.container{
+        display: flex;
+        gap:10rem;
+        background-color: rgb(255, 255, 255);
+        width: 500px;
+        border: 15px solid black;
+        /* padding: 50px;
+        margin: 20px; */
+        padding: 59px;
+        margin: -8px;
+        margin-left: -92px;
+        position: relative;
+        left: 500px;
+}
